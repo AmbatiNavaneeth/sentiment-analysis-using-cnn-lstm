@@ -1,0 +1,6 @@
+{
+  "name": "Sentiment Analysis Using CNN-LSTM",
+  "description": "AI-Powered IMDb Movie Review Sentiment Analysis using a Deep Learning CNN-LSTM model with real-time prediction, confidence scoring, model metrics, and interactive architecture visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
