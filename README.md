@@ -1,20 +1,30 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+<h1 align="center">🤖 Sentiment Insight AI</h1>
 
-# Run and deploy your AI Studio app
+<p align="center">
+AI-Powered Sentiment Analysis Platform for Customer Reviews and Feedback
+</p>
 
-This contains everything you need to run your app locally.
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Tensorflow-Web%20Framework-black?style=for-the-badge&logo=Tensorflow">
+<img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=for-the-badge&logo=scikitlearn">
+<img src="https://img.shields.io/badge/CNN-LSTM-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql">
+</p>
 
-View your app in AI Studio: https://ai.studio/apps/b838f99d-2a6b-4a64-98d3-c62edeb4bce1
+---
 
-## Run Locally
+# 📌 About The Project
 
-**Prerequisites:**  Node.js
+Sentiment Insight AI is a Machine Learning and Natural Language Processing (NLP) platform that analyzes customer reviews and feedback to determine sentiment.
 
+The system automatically classifies reviews into:
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+✅ Positive
+
+❌ Negative
+
+😐 Neutral
+
+Businesses can use the platform to understand customer satisfaction, identify issues, and make data-driven decisions based on customer feedback.
+
